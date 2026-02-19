@@ -2,49 +2,33 @@
 
 This project is a part of the AAI-530 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
--- Project Status: [**Planning**, Active, Completed]
+-- Project Status: [Planning, Active, **Completed**]
 
-#### Installation
-You should add an instruction how this project is to be used, installed, run, edited in others’ machine.
- 
 #### Project Intro/Objective
 
-The main purpose of this project is ________. Describe the goals of the project and potential impacts. Mention the needs/applications of your project clearly. Limit to one/two short paragraph(s). 
+The main purpose of this project is to create a public Tableau dashboard that simulates the analysis of real-time IoT sensor readings.
 
 #### Partner(s)/Contributor(s)
 
 * [Johnathan Kelsey](https://github.com/mr-kelsey)
-* [Nicholson Alforque]()
-* [Tushar Kumar]()
+* [Nicholson Alforque](https://github.com/Sublymonal)
+* [Tushar Kumar](https://github.com/Tushar408K)
 
 #### Methods Used
 * Inferential Statistics
-* NLP
-* Computer Vision
 * Machine Learning
 * Deep Learning
-* Ethics for AI
 * Data Visualization
 * IoT
 * Cloud Computing 
 * Data Manipulation
-* Case Studies 
-* etc.
 
 #### Technologies
 * Python
-* C++
-* SQL
-* PostGres, MySql
-* R
-* JavaScript
-* etc.
+* Tableau
 
 #### Project Description
-Discuss the details of project overview. Description your selected dataset, such as data source, number of variables, size of dataset, etc. Include data dictionary, if available.  Provide questions and hypothesis that you are exploring. What specific data analysis, visualization, and modeling work are you using to solve the problem? What roadblocks and challenges are you facing? etc. 
+Cities, especially those that allow for mixed-use zoning, often install air quality monitoring sensors and use the sensor data to issue fines to companies whose factories are polluting a neighborhood. Being able to predict when a sensor is likely to begin drifting is crucial for ensuring that the sensors report accurately. Companies want to know that they aren’t being fined without due cause, and residents want to know when they should stay inside or leave the area. This requires accurate reading, as sensor drift can rob a system of its accuracy. By predicting when drift is most likely to occur, cities can replace the sensors, ensuring more accurate data and a healthier environment for their citizens.
 
 #### License
 GNU GENERAL PUBLIC LICENSE Version 3
-
-#### Acknowledgments
-You can mention and thank your professors and those who technically helped you during the project. 
